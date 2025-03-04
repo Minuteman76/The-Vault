@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "5f8a083088b89e6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff738c25bb15d58a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47c5c3b2986d5e6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Firearms/Optics/Primary Arms SLx 5x MicroPrism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Primary Arms SLx 5x MicroPrism"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6955079d6ace1713",
+    "type": "split",
+    "children": [
+      {
+        "id": "df8937ea965d814c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6160d0247d0036f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fa1841f77ec77f09",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e389b5214a2e5f64",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c228af378c6c7e73",
+    "type": "split",
+    "children": [
+      {
+        "id": "647f17f60dd793dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad9692fade538ab4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Firearms/Optics/Primary Arms SLx 5x MicroPrism.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Primary Arms SLx 5x MicroPrism"
+            }
+          },
+          {
+            "id": "74f17aed66119c56",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Firearms/Optics/Primary Arms SLx 5x MicroPrism.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Primary Arms SLx 5x MicroPrism"
+            }
+          },
+          {
+            "id": "356fe5f859d1e1c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5603e75498de7b66",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Firearms/Optics/Primary Arms SLx 5x MicroPrism.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Primary Arms SLx 5x MicroPrism"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "47c5c3b2986d5e6d",
+  "lastOpenFiles": [
+    "Communications/Radios/Baofeng/UV-17.md",
+    "Firearms/Optics/Primary Arms SLx 5x MicroPrism.md",
+    "Firearms/Muzzle Devices",
+    "Firearms/Optics",
+    "Communications/Radios/Baofeng/UV-5R.md",
+    "Untitled.md",
+    "Communications/Radios/Baofeng",
+    "Communications/Radios",
+    "Communications",
+    "Web Gear",
+    "New folder",
+    "Camping",
+    "New folder (2)"
+  ]
+}
