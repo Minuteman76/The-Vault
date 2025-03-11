@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Firearms/Optics/Primary Arms SLx 5x MicroPrism.md",
+                "file": "Firearms/Parts/LAMs/Zenitco Perst-3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Primary Arms SLx 5x MicroPrism"
+              "title": "Zenitco Perst-3"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Firearms/Optics/Primary Arms SLx 5x MicroPrism.md",
+                "file": "Clothing/Socks/Darn Tough.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Primary Arms SLx 5x MicroPrism"
+              "title": "Backlinks for Darn Tough"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Firearms/Optics/Primary Arms SLx 5x MicroPrism.md",
+                "file": "Clothing/Socks/Darn Tough.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Primary Arms SLx 5x MicroPrism"
+              "title": "Outgoing links from Darn Tough"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Firearms/Optics/Primary Arms SLx 5x MicroPrism.md",
+                "file": "Clothing/Socks/Darn Tough.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Primary Arms SLx 5x MicroPrism"
+              "title": "Outline of Darn Tough"
             }
           }
         ]
@@ -170,18 +170,42 @@
   },
   "active": "47c5c3b2986d5e6d",
   "lastOpenFiles": [
-    "Communications/Radios/Baofeng/UV-17.md",
-    "Firearms/Optics/Primary Arms SLx 5x MicroPrism.md",
-    "Firearms/Muzzle Devices",
-    "Firearms/Optics",
-    "Communications/Radios/Baofeng/UV-5R.md",
-    "Untitled.md",
-    "Communications/Radios/Baofeng",
-    "Communications/Radios",
-    "Communications",
-    "Web Gear",
-    "New folder",
-    "Camping",
-    "New folder (2)"
+    "Firearms/Parts/LAMs/US Nightvision DIR-V.md",
+    "Firearms/Parts/LAMs/Zenitco Perst-3.md",
+    "Firearms/Parts/LAMs/Steiner DBAL D2.md",
+    "Firearms/Parts/LAMs/RovyVon GL4 Pro.md",
+    "Firearms/Parts/LAMs/SMSLaser HFXC.md",
+    "Firearms/Parts/LAMs/Streamlight TLR-VIR II.md",
+    "Firearms/Parts/LAMs/BE Meyers MAWL C1+.md",
+    "Firearms/Parts/LAMs/Somogear PEQ-15.md",
+    "Firearms/Parts/LAMs/Holosun LE117IR.md",
+    "Firearms/Parts/LAMs/Laserspeed M6TR.md",
+    "Firearms/Parts/LAMs/Holosun Iris.md",
+    "Firearms/Parts/Platform Specific/1022/Brownells BRN-22 Receiver.md",
+    "Electronics/Hearing Protection",
+    "Night Vision/Mounts/Wilcox G24.md",
+    "Firearms/Parts/Platform Specific/G3",
+    "Firearms/Parts/Platform Specific/MP5",
+    "Firearms/Parts/Platform Specific/AR9",
+    "Firearms/Parts/LAMs",
+    "Firearms/Parts/Weapon Lights",
+    "First Aid",
+    "Night Vision/Mounts/J Arms",
+    "Night Vision/Mounts/Bridges",
+    "Armor/Plates/Plate Sizing.md",
+    "Night Vision/Mounts",
+    "Camping/Hammocks/Suspension/Dutchware Cinch Buckle suspension.md",
+    "Firearms/Complete Firearms/Untitled.md",
+    "Camping/Hammocks/Tarps/Hammock Gear Journey.md",
+    "Camping/Hammocks/Tarps/Hammock Gear Quest.md",
+    "Camping/Rucks/Granite Gear Blaze 60.md",
+    "Camping/Rucks/Zpacks Arc Haul Ultra 60L.md",
+    "Camping/Rucks/Mystery Ranch Bridger 65.md",
+    "Load Bearing Equipment/Plate Carriers/Defense Mechanisms MEPC.md",
+    "Load Bearing Equipment/Plate Carriers/Crye Precision JPC 2.0.md",
+    "Load Bearing Equipment/Plate Carriers/Condor Modular Operator Plate Carrier (MOPC).md",
+    "Night Vision/Image Intensifiers/How To Read an Image Intensifier Spec Sheet.md",
+    "Load Bearing Equipment/Chest Rigs/Haley Strategic D3CRM.md",
+    "zImages/1466_source_1634223695.jpg"
   ]
 }
