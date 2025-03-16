@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Firearms/Parts/LAMs/Zenitco Perst-3.md",
+                "file": "Camping/Knots/Marlin Spike Hitch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zenitco Perst-3"
+              "title": "Marlin Spike Hitch"
+            }
+          },
+          {
+            "id": "822c77fee783fefb",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "zImages/marlinspike_hitch.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "marlinspike_hitch"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"price\":",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,44 +181,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47c5c3b2986d5e6d",
+  "active": "822c77fee783fefb",
   "lastOpenFiles": [
-    "Firearms/Parts/LAMs/US Nightvision DIR-V.md",
+    "Camping/Knots/Marlin Spike Hitch.md",
+    "zImages/marlinspike_hitch.jpg",
+    "Camping/Knots/Bowline.md",
+    "zImages/0.jpg",
+    "Camping/Hammocks/Suspension/!Concepts.md",
+    "Camping/Hammocks/Suspension/Dutchware Cinch Buckle suspension.md",
+    "Camping/Hammocks/Suspension/Becket Hitch (Hammock Knot).md",
+    "zImages/becket-hitch_vxl3wn-1817306352-1.jpg",
+    "Camping/Hammocks/Suspension/Whoopie Slings.md",
+    "Camping/Knots",
+    "Camping/Hammocks/Suspension/Daisy Chain Webbing.md",
+    "Camping/Hammocks/Hammocks/Eagle Nest Outfitters DoubleNest.md",
+    "Camping/Hammocks/Hammocks/Hammock Gear Circadian Pro.md",
+    "Camping/Hammocks/Tarps/Hammock Gear Journey.md",
+    "Camping/Hammocks/Hammocks/Warbonnet Blackbird.md",
+    "Camping/Sleeping Bags and Quilts/Sleeping Bags/US Surplus 4 Piece Modular Sleep System (MSS).md",
+    "Camping/Hammocks/Tarps/Hammock Gear Quest.md",
+    "Camping/Rucks/Granite Gear Blaze 60.md",
+    "Camping/Sleeping Pads",
+    "Camping/Sleeping Bags and Quilts/Quilts/Underquilts",
+    "Camping/Sleeping Bags and Quilts/Quilts/Top Quilts",
+    "Camping/Sleeping Bags and Quilts/Quilts",
+    "Camping/Sleeping Bags and Quilts/Sleeping Bags",
+    "Camping/Rucks/Kelty Coyote 80.md",
+    "Camping/Rucks/Mystery Ranch Bridger 65.md",
+    "Camping/Rucks/Zpacks Arc Haul Ultra 60L.md",
+    "Camping/Dry bags/Sea to Summit Evac Compression Dry Bag.md",
+    "Camping/Dry bags/Sea to Summit eVent compression dry sacks.md",
+    "Firearms/Parts/LAMs/BE Meyers MAWL C1+.md",
+    "zImages/1466_source_1634223695.jpg",
     "Firearms/Parts/LAMs/Zenitco Perst-3.md",
+    "Firearms/Parts/LAMs/US Nightvision DIR-V.md",
     "Firearms/Parts/LAMs/Steiner DBAL D2.md",
     "Firearms/Parts/LAMs/RovyVon GL4 Pro.md",
     "Firearms/Parts/LAMs/SMSLaser HFXC.md",
-    "Firearms/Parts/LAMs/Streamlight TLR-VIR II.md",
-    "Firearms/Parts/LAMs/BE Meyers MAWL C1+.md",
-    "Firearms/Parts/LAMs/Somogear PEQ-15.md",
-    "Firearms/Parts/LAMs/Holosun LE117IR.md",
-    "Firearms/Parts/LAMs/Laserspeed M6TR.md",
-    "Firearms/Parts/LAMs/Holosun Iris.md",
-    "Firearms/Parts/Platform Specific/1022/Brownells BRN-22 Receiver.md",
     "Electronics/Hearing Protection",
-    "Night Vision/Mounts/Wilcox G24.md",
     "Firearms/Parts/Platform Specific/G3",
     "Firearms/Parts/Platform Specific/MP5",
-    "Firearms/Parts/Platform Specific/AR9",
-    "Firearms/Parts/LAMs",
-    "Firearms/Parts/Weapon Lights",
-    "First Aid",
-    "Night Vision/Mounts/J Arms",
-    "Night Vision/Mounts/Bridges",
-    "Armor/Plates/Plate Sizing.md",
-    "Night Vision/Mounts",
-    "Camping/Hammocks/Suspension/Dutchware Cinch Buckle suspension.md",
-    "Firearms/Complete Firearms/Untitled.md",
-    "Camping/Hammocks/Tarps/Hammock Gear Journey.md",
-    "Camping/Hammocks/Tarps/Hammock Gear Quest.md",
-    "Camping/Rucks/Granite Gear Blaze 60.md",
-    "Camping/Rucks/Zpacks Arc Haul Ultra 60L.md",
-    "Camping/Rucks/Mystery Ranch Bridger 65.md",
-    "Load Bearing Equipment/Plate Carriers/Defense Mechanisms MEPC.md",
-    "Load Bearing Equipment/Plate Carriers/Crye Precision JPC 2.0.md",
-    "Load Bearing Equipment/Plate Carriers/Condor Modular Operator Plate Carrier (MOPC).md",
-    "Night Vision/Image Intensifiers/How To Read an Image Intensifier Spec Sheet.md",
-    "Load Bearing Equipment/Chest Rigs/Haley Strategic D3CRM.md",
-    "zImages/1466_source_1634223695.jpg"
+    "Firearms/Parts/Platform Specific/AR9"
   ]
 }
