@@ -1,10 +1,10 @@
 ---
 Approx. Price: 130
+weight (g): "682"
 ---
 https://hammockgear.com/circadian-pro/
-Material: 40D Nylon
 
-Available in 11 or 12 foot lengths. Longer is more comfortable for taller people, 11 feet is plenty for ~6' tall users.
+Available in 11 or 12 foot lengths. Listed weight is for 11 foot, 40D nylon. Longer is more comfortable for taller people, 11 feet is plenty for ~6' tall users.
 
 Includes a static structural ridgeline so the sag is fixed regardless of suspension tension or angle.
 

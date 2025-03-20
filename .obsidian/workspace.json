@@ -25,12 +25,14 @@
             "id": "822c77fee783fefb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "zImages/marlinspike_hitch.jpg"
+                "file": "!README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "marlinspike_hitch"
+              "icon": "lucide-file",
+              "title": "!README"
             }
           }
         ],
@@ -183,21 +185,33 @@
   },
   "active": "822c77fee783fefb",
   "lastOpenFiles": [
-    "Camping/Knots/Marlin Spike Hitch.md",
-    "zImages/marlinspike_hitch.jpg",
-    "Camping/Knots/Bowline.md",
+    "Camping/Headlamps/Zebralight H600 Headlamp.md",
     "zImages/0.jpg",
+    "zImages/becket-hitch_vxl3wn-1817306352-1.jpg",
+    "zImages/marlinspike_hitch.jpg",
+    "Camping/Water Purification/Iodine tablets.md",
+    "Camping/Tools/Axes+hatchets",
+    "Camping/Tools/Knives",
+    "Camping/Tools/Saws",
+    "Camping/Water Purification/Aquapura tablets.md",
+    "Camping/Water Purification/Sawyer Squeeze filter.md",
+    "Camping/Water Purification/Sawyer Mini filter.md",
+    "Camping/Hammocks/Stands/Turtlebug.md",
+    "Camping/Hammocks/Stands/Tensa4.md",
+    "Camping/Hammocks/Stands/!Concepts.md",
     "Camping/Hammocks/Suspension/!Concepts.md",
+    "Camping/Hammocks/Stands",
+    "Camping/Hammocks/Hammocks/Hammock Gear Circadian Pro.md",
+    "Camping/Hammocks/Hammocks/Warbonnet Blackbird.md",
+    "Camping/Hammocks/Hammocks/Eagle Nest Outfitters DoubleNest.md",
+    "Camping/Knots/Marlin Spike Hitch.md",
+    "Camping/Knots/Bowline.md",
     "Camping/Hammocks/Suspension/Dutchware Cinch Buckle suspension.md",
     "Camping/Hammocks/Suspension/Becket Hitch (Hammock Knot).md",
-    "zImages/becket-hitch_vxl3wn-1817306352-1.jpg",
     "Camping/Hammocks/Suspension/Whoopie Slings.md",
     "Camping/Knots",
     "Camping/Hammocks/Suspension/Daisy Chain Webbing.md",
-    "Camping/Hammocks/Hammocks/Eagle Nest Outfitters DoubleNest.md",
-    "Camping/Hammocks/Hammocks/Hammock Gear Circadian Pro.md",
     "Camping/Hammocks/Tarps/Hammock Gear Journey.md",
-    "Camping/Hammocks/Hammocks/Warbonnet Blackbird.md",
     "Camping/Sleeping Bags and Quilts/Sleeping Bags/US Surplus 4 Piece Modular Sleep System (MSS).md",
     "Camping/Hammocks/Tarps/Hammock Gear Quest.md",
     "Camping/Rucks/Granite Gear Blaze 60.md",
@@ -210,17 +224,6 @@
     "Camping/Rucks/Mystery Ranch Bridger 65.md",
     "Camping/Rucks/Zpacks Arc Haul Ultra 60L.md",
     "Camping/Dry bags/Sea to Summit Evac Compression Dry Bag.md",
-    "Camping/Dry bags/Sea to Summit eVent compression dry sacks.md",
-    "Firearms/Parts/LAMs/BE Meyers MAWL C1+.md",
-    "zImages/1466_source_1634223695.jpg",
-    "Firearms/Parts/LAMs/Zenitco Perst-3.md",
-    "Firearms/Parts/LAMs/US Nightvision DIR-V.md",
-    "Firearms/Parts/LAMs/Steiner DBAL D2.md",
-    "Firearms/Parts/LAMs/RovyVon GL4 Pro.md",
-    "Firearms/Parts/LAMs/SMSLaser HFXC.md",
-    "Electronics/Hearing Protection",
-    "Firearms/Parts/Platform Specific/G3",
-    "Firearms/Parts/Platform Specific/MP5",
-    "Firearms/Parts/Platform Specific/AR9"
+    "zImages/1466_source_1634223695.jpg"
   ]
 }

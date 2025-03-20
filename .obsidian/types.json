@@ -3,6 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "Price": "number"
+    "Price": "number",
+    "weight (g)": "number"
   }
 }
