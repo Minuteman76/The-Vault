@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Load Bearing Equipment/Plate Carriers/Ferro Concepts Slickster.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ferro Concepts Slickster"
+              "title": "README"
             }
           }
         ],
@@ -185,9 +185,9 @@
   },
   "active": "822c77fee783fefb",
   "lastOpenFiles": [
+    "Load Bearing Equipment/Plate Carriers/Ferro Concepts Slickster.md",
     "README.md",
     "!README.md",
-    "Load Bearing Equipment/Plate Carriers/Ferro Concepts Slickster.md",
     "Load Bearing Equipment/Plate Carriers/Defense Mechanisms MEPC.md",
     "Load Bearing Equipment/Plate Carriers/Crye Precision JPC 2.0.md",
     "Load Bearing Equipment/Plate Carriers/Condor Modular Operator Plate Carrier (MOPC).md",
