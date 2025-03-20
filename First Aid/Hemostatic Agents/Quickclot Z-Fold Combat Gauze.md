@@ -1,4 +1,4 @@
 ---
-Approx. Price: 55
+Approx. Price ($): 55
 ---
 https://www.narescue.com/combat-gauze.html

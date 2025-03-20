@@ -1,5 +1,5 @@
 ---
-Approx. Price: 400
+Approx. Price ($): 400
 ---
 https://www.mcguirearmynavy.com/products/4-piece-modular-sleep-system-mss?variant=29431250354270
 

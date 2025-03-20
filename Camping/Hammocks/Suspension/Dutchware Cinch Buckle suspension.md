@@ -1,5 +1,5 @@
 ---
-Approx. Price: 50
+Approx. Price ($): 50
 ---
 https://dutchwaregear.com/product/ti-cinch-buckle-complete-suspension/#ti-cinch-buckle-amsteel-loop-pair
 

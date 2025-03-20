@@ -1,5 +1,5 @@
 ---
-Approx. Price: 175
+Approx. Price ($): 175
 ---
 https://www.warbonnetoutdoors.com/product/blackbird/
 

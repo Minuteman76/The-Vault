@@ -1,5 +1,5 @@
 ---
-Approx. Price: 360
+Approx. Price ($): 360
 weight (g): 6350
 ---
 https://www.tensaoutdoor.com/product/tensa4-hammock-stand/?v=0b3b97fa6688
