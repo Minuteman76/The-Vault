@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communications/Radios/Handheld Radios/Baofeng/UV-5R.md",
+                "file": "First Aid/Hemostatic Agents/Quickclot Z-Fold Combat Gauze.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UV-5R"
+              "title": "Quickclot Z-Fold Combat Gauze"
             }
           }
         ],
@@ -185,8 +185,13 @@
   },
   "active": "822c77fee783fefb",
   "lastOpenFiles": [
-    "Communications/Radios/Handheld Radios/Baofeng/UV-17.md",
+    "First Aid/Tourniquets/SWAT-T Tourniquet.md",
+    "First Aid/Hemostatic Agents/Quickclot Z-Fold Combat Gauze.md",
+    "First Aid/Tourniquets/North American Rescue Combat Application Tourniquet (CAT).md",
     "Communications/Radios/Handheld Radios/Baofeng/UV-5R.md",
+    "First Aid/Hemostatic Agents",
+    "First Aid/Tourniquets",
+    "Communications/Radios/Handheld Radios/Baofeng/UV-17.md",
     "Communications/Meshtastic/!Concepts.md",
     "Communications/ATAK/FreeTAKServer.md",
     "!README.md",
@@ -216,14 +221,9 @@
     "Camping/Hammocks/Suspension/Whoopie Slings.md",
     "Camping/Knots",
     "Camping/Hammocks/Suspension/Daisy Chain Webbing.md",
-    "Camping/Hammocks/Tarps/Hammock Gear Journey.md",
-    "Camping/Sleeping Bags and Quilts/Sleeping Bags/US Surplus 4 Piece Modular Sleep System (MSS).md",
-    "Camping/Hammocks/Tarps/Hammock Gear Quest.md",
     "Camping/Sleeping Pads",
     "Camping/Sleeping Bags and Quilts/Quilts/Underquilts",
     "Camping/Sleeping Bags and Quilts/Quilts/Top Quilts",
-    "Camping/Sleeping Bags and Quilts/Quilts",
-    "Camping/Sleeping Bags and Quilts/Sleeping Bags",
     "zImages/1466_source_1634223695.jpg"
   ]
 }
