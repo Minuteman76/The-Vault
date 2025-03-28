@@ -1,5 +1,8 @@
 ---
 Approx. Price ($): 175
+weight (g): 
+tags:
+  - Stub
 ---
 https://www.warbonnetoutdoors.com/product/blackbird/
 

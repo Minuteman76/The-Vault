@@ -1,3 +1,9 @@
+---
+Approx. Price ($): 
+weight (g): 
+tags:
+  - Stub
+---
 Takes 18650 batteries, 3.7v, minimum 10A discharge rate, max length 650mm, 700+mm protected cells will not fit.
 
 Light Output (runtimes)

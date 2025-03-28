@@ -1,7 +1,7 @@
 Available from many manufacturers:
 https://dutchwaregear.com/product/amsteel-whoopie-slings/
 
-These are effectively a length of rope with a permanent loop at each end which can be shortened or lengthened to adjust the hang of the hammock.
+These are effectively a length of rope with permanent loops at each end that can be shortened or lengthened to adjust the hang of the hammock.
 
 These are generally the lightest possible suspension with an infinite adjustment mechanism, but are more complicated to use than other systems.
 

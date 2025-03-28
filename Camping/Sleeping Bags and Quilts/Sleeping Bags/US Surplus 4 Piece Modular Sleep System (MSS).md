@@ -1,7 +1,9 @@
 ---
-Approx. Price ($): 400
+Approx. Price ($): 200
+weight (g): 3855
 ---
-https://www.mcguirearmynavy.com/products/4-piece-modular-sleep-system-mss?variant=29431250354270
+https://www.midwayusa.com/product/101624124/?pid=354842
+https://www.mcguirearmynavy.com/products/4-piece-modular-sleep-system-mss?variant=2943125035427
 
 Contains a black "Intermediate" mummy bag rated to -10F, a green "patrol" bag rated for 30F, a woodland camo Goretex bivy sack, and a black compression carrying bag. Combined the system is rated down to -30F.
 

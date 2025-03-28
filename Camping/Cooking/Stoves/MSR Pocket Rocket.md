@@ -1,6 +1,8 @@
 ---
 Approx. Price ($): 60
 weight (g): 73
+tags:
+  - Stub
 ---
 https://www.rei.com/product/114890/msr-pocketrocket-2-stove
 
