@@ -1,5 +1,6 @@
 {
   "attachmentFolderPath": "zImages",
   "readableLineLength": false,
-  "useMarkdownLinks": false
+  "useMarkdownLinks": false,
+  "alwaysUpdateLinks": true
 }

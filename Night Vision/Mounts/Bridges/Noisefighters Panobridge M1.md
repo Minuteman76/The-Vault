@@ -1,5 +1,7 @@
 ---
 Approx. Price ($): 500
+tags:
+  - Stub
 ---
 https://noisefighters.com/collections/nightvision/products/panobridge-m1-1-9-oz-metal-night-vision-bridge-offering-adjustable-field-of-view
 

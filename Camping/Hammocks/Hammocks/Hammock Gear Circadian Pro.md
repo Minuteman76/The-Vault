@@ -1,5 +1,5 @@
 ---
-Approx. Price ($): 130
+Approx. Price ($): "130"
 weight (g): 682
 ---
 https://hammockgear.com/circadian-pro/

@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ff738c25bb15d58a",
+        "id": "08c99e87cb0cdf85",
         "type": "tabs",
         "children": [
           {
-            "id": "47c5c3b2986d5e6d",
+            "id": "5c0ec892ab36c3b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Camping/Knots/Marlin Spike Hitch.md",
+                "file": "Armor/Helmets/Accessories/Task Lights/Streamlight Sidewinder Stalk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Marlin Spike Hitch"
-            }
-          },
-          {
-            "id": "822c77fee783fefb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Night Vision/Mounts/Bridges/Noisefighters Panobridge M1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Noisefighters Panobridge M1"
+              "title": "Streamlight Sidewinder Stalk"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "knots",
+                "query": "tag:#Stub  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,11 +168,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6160d0247d0036f6",
+  "active": "5c0ec892ab36c3b9",
   "lastOpenFiles": [
+    "Armor/Helmets/Bump/Team Wendy Exfil LTP.md",
+    "Armor/Helmets/Accessories/Pads/4D Hyve Pads.md",
+    "Camping/Hammocks/Hammocks/Hammock Gear Circadian Pro.md",
+    "Camping/Hammocks/Accessories/Hangtime Hook.md",
+    "Camping/Hammocks/Suspension/!Concepts.md",
+    "Communications/Meshtastic/!Concepts.md",
+    "Camping/Hammocks/Stands/!Concepts.md",
+    "Camping/Rucks/5.11 Rush 72.md",
+    "Camping/Rucks/Granite Gear Blaze 60.md",
+    "2025-03-29.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Camping/Knots/Marlin Spike Hitch.md",
+    "Load Bearing Equipment/Assault Packs/5.11 Rush 12.md",
+    "Camping/Tools/Multitools/Leatherman Surge.md",
+    "Camping/Tools/Multitools/Leatherman Wingman.md",
+    "Camping/Tools/Multitools/Victorinox Classic.md",
+    "Camping/Tools/Multitools/Leatherman Squirt PS4.md",
+    "Camping/Tools/Multitools/Gerber Dime.md",
+    "Leatherman Squirt.md",
+    "Night Vision/Mounts/Bridges/Noisefighters Panobridge M1.md",
     "Thermals/Monoculars",
     "Thermals/Untitled.md",
-    "Night Vision/Mounts/Bridges/Noisefighters Panobridge M1.md",
     "Thermals/Dedicated TWS",
     "Thermals/Clip ons",
     "Night Vision/Image Intensifiers/How To Read an Image Intensifier Spec Sheet.md",
@@ -196,23 +201,6 @@
     "Navigation/Compasses/Lensatic Compass.md",
     "Load Bearing Equipment/Pouches/Ferro Concepts Ktar Front Flap.md",
     "Load Bearing Equipment/Plate Carriers/Shaw Concepts ARC Carrier V2.md",
-    "Load Bearing Equipment/Plate Carriers/Ferro Concepts Slickster.md",
-    "Load Bearing Equipment/Plate Carriers/Defense Mechanisms MEPC.md",
-    "Load Bearing Equipment/Plate Carriers/Crye Precision JPC 2.0.md",
-    "Load Bearing Equipment/Plate Carriers/Condor Modular Operator Plate Carrier (MOPC).md",
-    "Load Bearing Equipment/Chest Rigs/Spiritus Systems Bank Robber.md",
-    "Load Bearing Equipment/Chest Rigs/Haley Strategic D3CRM.md",
-    "Load Bearing Equipment/Assault Packs/Tyr Tactical Huron SOF.md",
-    "Load Bearing Equipment/Assault Packs/5.11 Rush 24.md",
-    "Load Bearing Equipment/Assault Packs/5.11 Rush 12.md",
-    "First Aid/Tourniquets/SWAT-T Tourniquet.md",
-    "First Aid/Tourniquets/North American Rescue Combat Application Tourniquet (CAT).md",
-    "First Aid/Hemostatic Agents/Quickclot Z-Fold Combat Gauze.md",
-    "Electronics/Smart Watches/Garmin Instinct II.md",
-    "Electronics/Portable Chargers/Anker Powercore 20100.md",
-    "Electronics/Portable Chargers/!Concepts.md",
-    "Electronics/Hearing Protection/Howard Leight Impact Sport.md",
-    "Communications/Radios/Handheld Radios/Baofeng/UV-17.md",
     "Armor/Helmets/Accessories/Pads",
     "Armor/Helmets/Accessories/Ear Pro mounts",
     "Armor/Helmets/Accessories/Counterweights",
@@ -220,7 +208,6 @@
     "Armor/Helmets/Accessories/Task Lights",
     "Armor/Helmets/Accessories",
     "Camping/Hammocks/Accessories",
-    "Navigation/Maps",
     "zImages/0.jpg",
     "zImages/becket-hitch_vxl3wn-1817306352-1.jpg",
     "zImages/marlinspike_hitch.jpg",
