@@ -15,15 +15,14 @@ To make the pouch you'll need four supplies:
 - https://www.wtfidea.com/loop-1-5-wide-milspec-black-coyote-brown-ranger-green-wolf-grey-velcro-brand-berry-compliant/ - Sold in 1 yard increments, each pouch needs 6"
 - You will also need some kind of thread, regular cotton thread will work fine since this pouch will not be carrying any heavy loads, but stronger thread like nylon or polyester is recommended.
 
-Start by cutting off 10" of the elastic,
-Cut off 6" of the hook tape
-Cut off 6" of the loop tape
-
-Fold the elastic in half in the same direction the fabric is rolled, giving you a 5" x 6" rectangle two layers thick.
-Place the hook fabric on top of the elastic, with the 6" edge of the hook tape lined up with the cut edges of the elastic, and the hooks facing up.
-Place the loop fabric under the elastic, in the same orientation and position as the hook fabric, with the loops facing down.
-Sew all along the entire perimeter of the hook tape, going through both layers of the elastic and the loop tape on the other side.
-Optionally, sew an X pattern through the hook and loop tape as well for extra strength.
+1. Start by cutting off 10" of the elastic
+2. Cut off 6" of the hook tape
+3. Cut off 6" of the loop tape
+4. Fold the elastic in half in the same direction the fabric is rolled, giving you a 5" x 6" rectangle two layers thick.
+5. Place the hook fabric on top of the elastic, with the 6" edge of the hook tape lined up with the cut edges of the elastic, and the hooks facing up.
+6. Place the loop fabric under the elastic, in the same orientation and position as the hook fabric, with the loops facing down.
+7. Sew all along the entire perimeter of the hook tape, going through both layers of the elastic and the loop tape on the other side.
+8. Optionally, sew an X pattern through the hook and loop tape as well for extra strength.
 
 Depending on your plate carrier, you may want to use slightly more than 10" of elastic. Some carrier have the velcro closure tucked way up inside the plate bag, and you may need to account for this extra distance or the elastic pouch will be too tight. The 10" design has been tested to work well with both the [[Crye Precision JPC 2.0]] and [[Defense Mechanisms MEPC]].
 
