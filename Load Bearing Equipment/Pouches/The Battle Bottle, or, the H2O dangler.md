@@ -10,10 +10,10 @@ This pouch will probably be most useful to people setting up their plate carrier
 I recommend using this pouch with the 1L sized Smartwater bottle because of the aforementioned filter compatibility, they are exceeding lightweight for their capacity, and the long and skinny form factor makes it tuck under the plate well. Also most water purification tablets are designed to be added to 1L of water, so you can add a few tablets to your first aid kit and get even more emergency sustainment potential.
 
 To make the pouch you'll need four supplies: 
-https://www.wtfidea.com/6-elastic-extreme-stretch-ranger-green-knitted-polyester/ - Sold in 1 yard increments, each pouch needs 10".
-https://www.wtfidea.com/hook-1-5-wide-milspec-black-coyote-brown-ranger-green-wolf-grey-velcro-brand-berry-compliant/ - Sold in 1 yard increments, each pouch needs 6"
-https://www.wtfidea.com/loop-1-5-wide-milspec-black-coyote-brown-ranger-green-wolf-grey-velcro-brand-berry-compliant/ - Sold in 1 yard increments, each pouch needs 6"
-You will also need some kind of thread, regular cotton thread will work fine since this pouch will not be carrying any heavy loads, but stronger thread like nylon or polyester is recommended.
+- https://www.wtfidea.com/6-elastic-extreme-stretch-ranger-green-knitted-polyester/ - Sold in 1 yard increments, each pouch needs 10".
+- https://www.wtfidea.com/hook-1-5-wide-milspec-black-coyote-brown-ranger-green-wolf-grey-velcro-brand-berry-compliant/ - Sold in 1 yard increments, each pouch needs 6"
+- https://www.wtfidea.com/loop-1-5-wide-milspec-black-coyote-brown-ranger-green-wolf-grey-velcro-brand-berry-compliant/ - Sold in 1 yard increments, each pouch needs 6"
+- You will also need some kind of thread, regular cotton thread will work fine since this pouch will not be carrying any heavy loads, but stronger thread like nylon or polyester is recommended.
 
 Start by cutting off 10" of the elastic,
 Cut off 6" of the hook tape
